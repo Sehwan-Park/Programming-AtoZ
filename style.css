@@ -80,12 +80,12 @@ li {
 
 /* unvisited link */
 a:link {
-    color: #c3d2c2;
+    color: #eaeaea;
 }
 
 /* visited link */
 a:visited {
-    color: #c3d2c2;
+    color: #eaeaea;
     /*color: #374747;*/
 }
 
