@@ -1,0 +1,99 @@
+ body {
+    /*margin:5px;*/
+    /*padding:5px;*/
+    width:95%;
+    font-family: 'Noto Sans', sans-serif;
+    font-size:100%;
+    text-align: center;
+    background-color: #223333;
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    color:black;
+    list-style-type: none;
+
+    text-align: left;
+    padding: 10px;
+    font-size: 1.5em;
+    margin-left: 50px;
+    margin-right: 50px;   
+}
+
+/*body {
+text-align: left;
+padding: 10px;
+font-size: 1.5em;
+margin-left: 10px;
+margin-right: 10px;
+
+}*/
+
+#instructions {
+    line-height: 70%;
+}
+
+#header {
+    font-size:100%;
+    text-align: left;
+    font-weight:10;
+    left:0;
+    right:0;
+    color:gray;
+    padding-bottom: 50px;
+}
+
+#result {
+    font-family: 'Rouge Script', cursive;
+    background: gray;
+    color: white;
+    font-size:2em;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+#img {
+    padding-left: 20%;
+}
+h1 {
+    color: #FFFFFF;
+    font-size: 2em;
+    font-family: 'Noto Sans';
+    font-weight: 700;
+}
+
+h2 {
+    font-family: 'Noto Sans';
+    font-weight: lighter;
+    font-size: 1em;
+}
+
+li {
+   /* display:inline-block; */
+   font-family: 'Noto Sans';
+    font-weight: 100;   
+    font-size: 0.7em;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+/* unvisited link */
+a:link {
+    color: #c3d2c2;
+}
+
+/* visited link */
+a:visited {
+    color: #374747;
+}
+
+/* mouse over link */
+a:hover {
+    color: #0cff00;
+}
+
+/* selected link */
+a:active {
+    color: #0cff00;
+}
