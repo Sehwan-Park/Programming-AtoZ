@@ -85,7 +85,8 @@ a:link {
 
 /* visited link */
 a:visited {
-    color: #374747;
+    color: #c3d2c2;
+    /*color: #374747;*/
 }
 
 /* mouse over link */
