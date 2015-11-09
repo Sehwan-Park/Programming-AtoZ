@@ -1,0 +1,165 @@
+{
+  "<start>":[
+    " DEFENDERS : <DF> % MID-FIELDER : <MF> % STRIKER : <ST>" 
+  ],
+
+    "<DF>":[
+        "<d1> <d2> <d2> <d1>",
+        "<d1> <d1> <d2> <d2>",
+        "<d1> <d2> <d1> <d2>",
+        "<d2> <d1> <d2> <d1>",
+        "<d2> <d2> <d1> <d1>",
+        "<d2> <d1> <d1> <d2>",
+        "<d1> <d1> <d1> <d3>",
+        "<d1> <d1> <d3> <d1>",
+        "<d1> <d3> <d1> <d1>",
+        "<d3> <d1> <d1> <d1>"
+    ],
+
+    "<MF>":[
+        "<m1> <m1> <m1> <m3>",
+        "<m1> <m1> <m3> <m1>",
+        "<m1> <m3> <m1> <m1>",
+        "<m3> <m1> <m1> <m1>",
+        "<m1> <m2> <m2> <m1>",
+        "<m1> <m2> <m1> <m2>",
+        "<m1> <m1> <m2> <m2>",
+        "<m2> <m1> <m1> <m2>",
+        "<m2> <m2> <m1> <m1>",
+        "<m2> <m1> <m2> <m1>"
+    ],
+
+    "<ST>":[
+        "<s1> <s3>",
+        "<s3> <s1>",
+        "<s2> <s2>"
+    ],
+
+
+    "<d1>":[
+        "Sylvain Distin.",
+        "Adam Smith.",
+        "Tommy Elphich.",
+        "Steve Cook.",
+        "Micah Richards.",
+        "Jores Okore.",
+        "Philippe Senderos.",
+        "Alan Hutton.",
+        "Jonas Olsson.",
+        "James Chester.",
+        "Jonny Evans."
+    ],
+
+    "<d2>":[
+        "Gary Cahill.",
+        "John Terry.",
+        "Kurt Zouma.",
+        "Darron Gibson.",
+        "John Stone.",
+        "Phil Jagielka.",
+        "Angel Rangel.",
+        "Kyle Bartley.",
+        "Liam Shephard."
+    ],
+
+    "<d3>":[
+        "Mathieu Debuchy.",
+        "Kieran Gibbs.",
+        "Nacho Monreal.",
+        "Calum Chambers.",
+        "Gael Clichy.",
+        "Jason Denayer.",
+        "Vincent Kompany.",
+        "Pablo Zabaleta.",
+        "Phil Jones.",
+        "Chris Smalling.",
+        "Danny Rose.",
+        "Kyle Walker."
+    ],
+
+    "<m1>":[
+        "Shaun McDonald.",
+        "Junior Stanislas.",
+        "Matt Ritchie.",
+        "Scott Sinclair.",
+        "Ashley Westwood.",
+        "Gary Gardener.",
+        "Carles Gil.",
+        "Claudio Yacob.",
+        "Chris Brunt.",
+        "James McClean.",
+        "Craig Gardner."
+    ],
+
+
+    "<m2>":[
+        "Pedro.",
+        "Kenedy.",
+        "Oscar.",
+        "Ramires.",
+        "Cesc Fabregas.",
+        "Aiden McGeady.",
+        "Bryan Oviedo.",
+        "Aaron Lennon.",
+        "Ashley Young.",
+        "Matt Grimes.",
+        "Sung-Yong Ki.",
+        "Jonjo Shelvey."
+    ],
+
+    "<m3>":[
+        "Tomas Rosicky.",
+        "Aaron Ramsey.",
+        "Jack Wilshere.",
+        "Santi Cazorla.",
+        "Mesut Ozil.",
+        "Samir Nasri.",
+        "David Silva.",
+        "Raheem Sterling.",
+        "Yaya Toure.",
+        "Nick Powell.",
+        "Michael Carrick.",
+        "Marouane Fellaini.",
+        "Juan Mata.",
+        "Antonio Valencia.",
+        "Bastian Schweinsteiger."
+    ],
+
+    "<s1>":[
+        "Callum Wilson.",
+        "Gabriel Agbonlahor.",
+        "Jordan Ayew.",
+        "Libor Kozak.",
+        "Adama Traore.",
+        "Rickie Lambert.",
+        "Victor Anichebe.",
+        "Fabio Borini."
+    ],
+
+
+    "<s2>":[
+        "Diego Costa.",
+        "Falcao.",
+        "Arouna Kone.",
+        "Romelu Lukaku.",
+        "Kevin Mirallas.",
+        "Marvin Emnes.",
+        "Andre Ayew.",
+        "Jermain Defoe.",
+        "Modou Barrow."
+    ],
+
+
+    "<s3>":[
+        "Olivier Giroud.",
+        "Theo Walcott.",
+        "Danny Welbeck.",
+        "Sergio Aguero.",
+        "Edin Dzeko.",
+        "Wilfried Bony.",
+        "Wayne Rooney.",
+        "Heung-Min Son.",
+        "Harry Kane."
+    ]
+
+}
